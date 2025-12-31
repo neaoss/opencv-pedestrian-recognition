@@ -1,0 +1,3 @@
+2025-11-23 20:00:24,687 - __main__ - INFO - Running in packaged mode, base directory: C:\Users\FLK\AppData\Local\Temp\_MEI315202
+2025-11-23 20:00:24,687 - __main__ - INFO - Default video folder: C:\Users\FLK\AppData\Local\Temp\_MEI315202\video
+2025-11-23 20:00:24,688 - __main__ - INFO - YOLO models directory: C:\Users\FLK\AppData\Local\Temp\_MEI315202\yolo_models
