@@ -64,3 +64,6 @@
 ## 许可证
 
 本项目采用MIT许可证。
+
+## 源代码和编译的可执行文件（可能是老版本，）
+通过网盘分享的文件：opencv-pedestrian-recognition.zip 链接: https://pan.baidu.com/s/1D4dYF_k6PXVrZgEzGA7XVg?pwd=mfxh 提取码: mfxh --来自百度网盘超级会员v9的分享
